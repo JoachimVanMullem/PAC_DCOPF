@@ -1,0 +1,40 @@
+Coal:
+  price: 32 #EUR/MWh
+
+Oil:
+  price: 60 #EUR/MWh
+
+Biomass:
+  price: 58 #EUR/MWh
+
+Interconnector:
+  price: 70 #EUR/MWh
+
+Wind:
+  price: 0
+
+Hydro:
+  price: 0
+
+Nuclear:
+  price: 0
+
+Tidal:
+  price: 68 #EUR/MWh
+
+Thermal: 
+  price: 40 #EUR/MWh
+
+Waste:
+  price: 69 #EUR/MWh
+
+Pumped storage:
+  price: 70 #EUR/MWh
+
+
+
+
+
+
+
+
