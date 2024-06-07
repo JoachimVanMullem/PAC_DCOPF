@@ -67,6 +67,8 @@ load= Dict()
 gen_names= Dict()
 
 
+#Convergence parameters for PAC-variant
+
 if number == 3
     ρ = 125.0
     γ = 62.71211382783801
