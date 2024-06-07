@@ -69,7 +69,7 @@ arcs_to = Dict()
 load= Dict()
 gen_names = Dict()
 
-#3bus parameters
+#3bus convergence parameters
 ρ =0.12327935896270334
 ρ_θ = 6.228809564034494e-5
 γ= 13.724595449512707
@@ -90,7 +90,7 @@ for i in N
 end
 
 
-#Elke node wordt atoom
+#Each node becomes an atom
 b= Dict()
 
 function init_atom(model,N) 
